@@ -1,5 +1,7 @@
 # Ignite Gym
-Trilha Ignite - React Native
+Trilha Ignite - React Native.
+
+Link [API](https://github.com/karenyov/ignite-gym-api). 
 
 Este repositório contém o código desenvolvido na parte do APP.
 
